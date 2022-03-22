@@ -9,7 +9,7 @@
   
   inputs.src-uuid4-main.flake = false;
   inputs.src-uuid4-main.owner = "vtbassmatt";
-  inputs.src-uuid4-main.ref   = "refs/heads/main";
+  inputs.src-uuid4-main.ref   = "main";
   inputs.src-uuid4-main.repo  = "nim-uuid4";
   inputs.src-uuid4-main.type  = "github";
   
